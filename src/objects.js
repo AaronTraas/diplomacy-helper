@@ -1,0 +1,22 @@
+let objects = [
+    'mummified cats', 
+    'pretzels', 
+    'herring',
+    'the fjords',
+    'the highlands of Scotland',
+    'the cliffs of Dover',
+    'the rings of Saturn',
+    'Xanadu',
+    'the Knights who say NI',
+    'Tokyo',
+    'Bumpass, VA',
+    'Newark',
+    'the life of the party',
+    'a horse-sized duck',
+    'Valinor',
+    'a spoon',
+    'Asgard',
+    'Strongbadia',
+    'Waterdeep',
+    'a dumpster'
+];

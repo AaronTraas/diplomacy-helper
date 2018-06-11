@@ -2,10 +2,7 @@
 
 let buttonRandomActions = document.getElementById('randomizeActions');
 
-let verbs = ['EATS', 'DRINKS', 'JUGGLES', 'ROASTS', 'FROLICKS through'];
-let objects = ['mummified cats', 'pretzels', 'herring', 'the fjords'];
-var commands = ['MOVE', 'SUPPORT', 'CONVOY', 'HOLD'];
-
+let commands = ['MOVE', 'SUPPORT', 'CONVOY', 'HOLD'];
 let verbs_string =  "['" + verbs.join("','") + "']";
 let objects_string = "['" + objects.join("','") + "']";
 let commands_string = "['" + commands.join("','") + "']";

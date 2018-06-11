@@ -1,0 +1,16 @@
+let verbs = [
+    'EATS', 
+    'DRINKS', 
+    'JUGGLES', 
+    'ROASTS', 
+    'FROLICKS through',
+    'TICKLES',
+    'WEEPS for',
+    'SAWS through',
+    'HIDES under',
+    'GAZES LONGINGLY at',
+    'CASTS magic missile on',
+    'SETS FIRE to',
+    'BELCHES at',
+    'FARTS in the direction of'
+];
